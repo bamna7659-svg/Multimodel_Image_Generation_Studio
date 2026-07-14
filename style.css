@@ -1,0 +1,29 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.block-container{
+    padding-top:2rem;
+    padding-bottom:2rem;
+}
+
+.stButton>button{
+    width:100%;
+    border-radius:12px;
+    height:50px;
+    font-size:16px;
+    font-weight:bold;
+}
+
+.stTextArea textarea{
+    border-radius:12px;
+}
+
+.stSelectbox div{
+    border-radius:10px;
+}
+
+div[data-testid="stMetric"]{
+    border-radius:15px;
+    padding:15px;
+}
