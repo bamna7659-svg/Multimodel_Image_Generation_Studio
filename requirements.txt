@@ -1,0 +1,9 @@
+streamlit
+groq
+requests
+python-dotenv
+Pillow
+streamlit-option-menu
+streamlit-lottie
+streamlit-extras
+streamlit-mic-recorder
